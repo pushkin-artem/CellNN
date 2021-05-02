@@ -9,7 +9,7 @@ Scriptek:
 - ai.py (neurális hálók definiálása)
 
 Adatbázis:
--BBCI.DE (http://bbci.de/competition/, BCI Competition IV)
+- BBCI.DE (http://bbci.de/competition/, BCI Competition IV)
 
 Futtatás és paraméterek választása:
 

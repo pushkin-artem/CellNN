@@ -8,6 +8,9 @@ Scriptek:
 - classifier.py (neurális hálók inicializalása)
 - ai.py (neurális hálók definiálása)
 
+Adatbázis:
+-BBCI.DE (http://bbci.de/competition/, BCI Competition IV)
+
 Futtatás és paraméterek választása:
 
 - Main futtatása előtt ki kell csomágolni a BBCI.DE nevű zip fájlt és bele kell helyezni a projekt mappába.
